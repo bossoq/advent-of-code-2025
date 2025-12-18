@@ -113,7 +113,6 @@ pub fn part_two(input: &str) -> Option<u64> {
     //                 .windows(2)
     //                 .all(|w| w[0] == w[1])
     //             {
-    //                 println!("Found repeating number: {}", n);
     //                 result += n;
     //                 break;
     //             }
